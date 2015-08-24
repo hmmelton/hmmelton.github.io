@@ -57,8 +57,8 @@
 
     <repositories>
         <repository>
-            <id>hmmelton.github.io-mvn-repo</id>
-            <url>https://raw.github.com/hmmelton/hmmelton.github.io/mvn-repo/</url>
+            <id>harrison_melton-repository</id>
+            <url>https://github.com/hmmelton/hmmelton.github.io/raw/master/repository/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
